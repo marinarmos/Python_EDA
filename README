@@ -1,10 +1,9 @@
-# ANÁLISIS EXPLORATORIO DE DATOS DE SUPERMERCAODS
+# ANÁLISIS EXPLORATORIO DE DATOS DE SUPERMERCADOS
 
 ## OBJETIVO
 
 - Se propuso analizar la empresa de Mercadona para identificar una fuga detectada de clientes. El objetivo principal fue identificar patrones y tendencias comparando los datos obtenidos a través de la API de Mercadona frente a los de empresas competidoras como, por ejemplo, Carrefour y Dia.
-- Se elaborA un Júpiter Notebook en el cual se emplearon técnicas de extracción y análisis estadístico para explorar y modelar los datos. La metodología incluyó la recolección, limpieza, transformación, modelado y evaluación de los resultados obtenidos
-
+- Se elaboró un Júpiter Notebook en el cual se emplearon técnicas de extracción y análisis estadístico para explorar y modelar los datos. La metodología incluyó la recolección, limpieza, transformación, modelado y evaluación de los resultados obtenidos.
 
 ## METODOLOGÍA
 
