@@ -18,5 +18,3 @@ Tras esto, se organizan y preparan los datos de manera que pueda ser procesado y
 Por tanto, se procede al análisis de los datos utilizando el EDA (Exploratory Data Analysis) o análisis exploratorio. Es una fase crucial en el proceso de análisis de datos y se centra en el examen inicial y la comprensión de un conjunto de datos antes de realizar análisis más detallados o modelado.
 
 Durante el EDA se explora visualmente los datos y se aplican técnicas estadísticas para identificar patrones, tendencias, valores atípicos y cualquier otra información relevante que pueda ser útil para comprender la naturaleza de los datos. Este análisis inicial ayuda a formular preguntas más específicas, guiar la elección de métodos analíticos y proporcionar información valiosa para la toma de decisiones.
-
-!(‪C:\Users\MARINA.RAMOS\Downloads\Diseño sin título.png)
