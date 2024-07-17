@@ -31,10 +31,10 @@ Este proyecto se centra en la recopilación, limpieza, transformación, modelado
 
 
 ## 🛠️ Herramientas Utilizadas
-- **Python: Lenguaje principal de programación.
-- **Jupyter Notebook: Plataforma utilizada para el análisis interactivo.
-- **Librerías:
-- *pandas para la manipulación de datos.
-- *numpy para operaciones numéricas.
-- *matplotlib y seaborn para visualización de datos.
-- *BeautifulSoup y Selenium para web scraping.
+**Python: Lenguaje principal de programación.
+**Jupyter Notebook: Plataforma utilizada para el análisis interactivo.
+**Librerías:
+  - pandas para la manipulación de datos.
+  - numpy para operaciones numéricas.
+  - matplotlib y seaborn para visualización de datos.
+  - BeautifulSoup y Selenium para web scraping.
