@@ -19,4 +19,22 @@ Por tanto, se procede al análisis de los datos utilizando el EDA (Exploratory D
 
 Durante el EDA se explora visualmente los datos y se aplican técnicas estadísticas para identificar patrones, tendencias, valores atípicos y cualquier otra información relevante que pueda ser útil para comprender la naturaleza de los datos. Este análisis inicial ayuda a formular preguntas más específicas, guiar la elección de métodos analíticos y proporcionar información valiosa para la toma de decisiones.
 
-![Descripción de la imagen](images/Diseño sin título.png)
+
+# 📊 Análisis Exploratorio de Datos de Supermercados
+
+## 📝 Resumen Ejecutivo
+- **Objetivo:** Analizar la empresa de Mercadona para identificar una fuga detectada de clientes comparando con datos de Carrefour y Dia.
+- **Metodología:** Se elaboró un Júpiter Notebook en el cual se emplearon técnicas de extracción y análisis estadístico para explorar y modelar los datos. La metodología incluyó la recolección, limpieza, transformación, modelado y evaluación de los resultados obtenidos.
+
+## 📚 Descripción del Proyecto
+Este proyecto se centra en la recopilación, limpieza, transformación, modelado y análisis de datos para identificar patrones y tendencias en los precios y ventas de supermercados.
+
+
+## 🛠️ Herramientas Utilizadas
+- **Python: Lenguaje principal de programación.
+- **Jupyter Notebook: Plataforma utilizada para el análisis interactivo.
+- **Librerías:
+- *pandas para la manipulación de datos.
+- *numpy para operaciones numéricas.
+- *matplotlib y seaborn para visualización de datos.
+- *BeautifulSoup y Selenium para web scraping.
